@@ -1,2 +1,3 @@
 # git_test
-“Hello Odin!”
+potatos are the best!
+is het friet of patat?
